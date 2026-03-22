@@ -15,15 +15,10 @@ Profissional com sólida experiência em tecnologia, migrando para desenvolvimen
 - CSS3 (Flexbox, Grid)  
 - JavaScript (DOM, lógica)  
 - React (em evolução)  
-- Git & GitHub  
+- Git & GitHub
+- Figma  
 
 --- 
-
-<div>
-   <a href="https://github.com/riqueerculano">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riqueerculano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riqueerculano&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
