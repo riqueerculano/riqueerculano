@@ -19,6 +19,12 @@ Profissional com sólida experiência em tecnologia, migrando para desenvolvimen
 - Figma  
 
 --- 
+
+ <div>
+   <a href="https://github.com/riquewrculano">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riqueerculano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riqueerculano&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,7 +32,6 @@ Profissional com sólida experiência em tecnologia, migrando para desenvolvimen
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
-<br>
 
 ## 📌 Projetos em destaque
 
@@ -43,11 +48,6 @@ Gerenciamento de chamados com base em experiência real.
 
 ## 🎯 Objetivo
 Conquistar minha primeira oportunidade como Desenvolvedor Front-End Júnior e evoluir profissionalmente na área.
-
----
-
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riqueerculano&show_icons=true&theme=tokyonight)
 
 ---
 
