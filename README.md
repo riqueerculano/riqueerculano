@@ -31,6 +31,8 @@ Profissional com sólida experiência em tecnologia, migrando para desenvolvimen
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+<br>
  
 
 ## 📌 Projetos em destaque
@@ -51,7 +53,8 @@ Conquistar minha primeira oportunidade como Desenvolvedor Front-End Júnior e ev
 
 ---
 
-### Pra conteúdo sobre programação me segue nas redes 
+### Conecte-se
+Me acompanhe nas redes 
 
 <div> 
   <a href="https://instagram.com/riqueerculano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
