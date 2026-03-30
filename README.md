@@ -37,15 +37,14 @@ Profissional com sólida experiência em tecnologia, migrando para desenvolvimen
 
 ## 📌 Projetos em destaque
 
-🔧 **Dashboard de Inventário de TI**  
+**Dashboard de Inventário de TI**  
 Sistema para controle de equipamentos com status e filtros.
 
-🌐 **Portfólio Profissional**  
+**Portfólio Profissional**  
 Site pessoal com apresentação e projetos.
 
-📞 **Sistema de Chamados (Help Desk)**  
-Gerenciamento de chamados com base em experiência real.
-
+**Projeto Loja Geek**  
+Desenvolvimento de interface responsiva para e-commerce fictício.
 ---
 
 ## 🎯 Objetivo
