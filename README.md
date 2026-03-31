@@ -15,8 +15,8 @@ Profissional com sólida experiência em tecnologia, migrando para desenvolvimen
 - CSS3 (Flexbox, Grid)  
 - JavaScript (DOM, lógica)  
 - React (em evolução)  
-- Git & GitHub
-- Figma  
+- Figma (UI/UX Design)  
+- Git & GitHub  
 
 --- 
 
@@ -37,15 +37,14 @@ Profissional com sólida experiência em tecnologia, migrando para desenvolvimen
 
 ## 📌 Projetos em destaque
 
-**Dashboard de Inventário de TI**  
+🔧 **Dashboard de Inventário de TI**  
 Sistema para controle de equipamentos com status e filtros.
 
-**Portfólio Profissional**  
+🌐 **Portfólio Profissional**  
 Site pessoal com apresentação e projetos.
 
-**Projeto Loja Geek**  
-Desenvolvimento de interface responsiva para e-commerce fictício.
----
+🛒 **Loja Geek (E-commerce)**  
+Projeto de loja virtual com foco em produtos geek e experiência do usuário.
 
 ## 🎯 Objetivo
 Conquistar minha primeira oportunidade como Desenvolvedor Front-End Júnior e evoluir profissionalmente na área.
