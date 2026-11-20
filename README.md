@@ -1,119 +1,168 @@
-# Henrique Erculano
+# 👨‍💻 Henrique Erculano
 
-### AI Builder | Front-End Developer | Tecnologia e Inovação
+<div align="center">
 
-Desenvolvedor em formação, estudante de Análise e Desenvolvimento de Sistemas e profissional com mais de 6 anos de experiência em Tecnologia da Informação.
 
-Atualmente, direciono minha carreira para o desenvolvimento de aplicações web e construção de soluções com Inteligência Artificial, combinando programação, automação e ferramentas low-code para resolver problemas reais de negócios.
+# BUILDING IDEAS INTO DIGITAL SOLUTIONS.
 
-Tenho interesse em desenvolver produtos digitais, agentes inteligentes, sistemas de atendimento e aplicações que proporcionem experiências melhores aos usuários.
+### 🤖 AI Builder  |  💻 Front-End Developer
+
+*Transformando problemas reais em experiências digitais inteligentes.*
+<br/>
+
+</div>
 
 ---
 
-## Sobre mim
+## `01` — WHO AM I?
 
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
-- 💻 Formação Full Stack pela DevQuest.
-- 🤖 Em desenvolvimento na área de AI Builder.
-- 🐍 Estudando Python e desenvolvimento de soluções com IA.
-- 🌐 Desenvolvendo aplicações com HTML, CSS e JavaScript.
-- 🔧 Experiência em suporte técnico, hardware, redes e atendimento.
-- 🚀 Interessado em agentes de IA, automação de processos e desenvolvimento de produtos digitais.
+```javascript
+const henrique = {
+  role: ["AI Builder", "Front-End Developer"],
+  location: "São Paulo, Brazil",
+  education: "Análise e Desenvolvimento de Sistemas",
+  experience: "6+ years in IT",
+  focus: [
+    "Artificial Intelligence",
+    "Web Development",
+    "Intelligent Agents",
+    "Process Automation"
+  ],
+  mindset: "Learn. Build. Test. Improve."
+};
+```
 
-## Tecnologias e ferramentas
+Sou profissional de Tecnologia da Informação com mais de 6 anos de experiência em suporte técnico, manutenção, infraestrutura e atendimento.
 
-### Front-End
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Responsividade
-- Flexbox e CSS Grid
+Atualmente, estou direcionando minha carreira para duas áreas que se complementam: **Inteligência Artificial e Desenvolvimento Front-End**.
 
-### AI Builder e Automação
-- Python
-- Lovable
-- n8n
-- APIs REST
-- JSON
-- Supabase
+Meu objetivo é construir aplicações, agentes inteligentes e automações que resolvam problemas reais e gerem valor para pessoas e empresas.
+
+## `02` — TECH STACK
+
+### 💻 Front-End Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma" />
+</p>
+
+### 🤖 AI Builder & Automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,supabase" />
+</p>
+
+**Ferramentas e tecnologias em desenvolvimento:**
+
+`Lovable` `n8n` `APIs REST` `JSON` `Prompt Engineering` `ChatGPT` `Gemini` `Claude`
+
+### 🧠 Currently Learning
+
+- Python Fundamentals
+- React e desenvolvimento de interfaces
 - Engenharia de Prompts
+- Construção de agentes inteligentes
+- Integração de APIs e automações
+- Git e GitHub — fluxo colaborativo
 
-### Ferramentas
-- Git
-- GitHub
-- VS Code
-- Figma
+## `03` — FEATURED PROJECTS
 
-*Tecnologias em diferentes estágios de aprendizado e prática.*
+<div align="center">
 
-## Projetos em destaque
+### 🚀 FROM IDEAS TO REAL PROJECTS
 
-### 🤖 AI Builder
+</div>
+
+### 🤖 AI BUILDER
 
 **Sabor Brasileiro — AI Delivery Agent**
 
-Projeto de construção de um agente inteligente para atendimento de restaurantes, com foco em cardápio digital, dúvidas de clientes e experiência de pedidos.
+Agente inteligente para atendimento de restaurantes, com foco na experiência do cliente, informações do cardápio e organização de pedidos.
 
-Status: Em desenvolvimento.
+`AI Agents` `Lovable` `Supabase` `n8n` `APIs`
 
-### 💻 Desenvolvimento Front-End
+*Status: Em desenvolvimento.*
+
+---
+
+### 💻 FRONT-END DEVELOPMENT
+
+**Help Desk Pro**
+
+Sistema de gerenciamento de chamados técnicos, projetado para organizar solicitações, usuários e acompanhamento de atendimentos.
+
+`HTML` `CSS` `JavaScript` `React` `Supabase`
+
+*Status: Projeto em desenvolvimento.*
 
 **SyntaxWear — E-commerce**
 
-Projeto de interface para comércio eletrônico de sneakers, desenvolvido com HTML e CSS.
+Interface de comércio eletrônico de sneakers, com identidade visual própria e foco em experiência de navegação.
 
-Repositório: https://github.com/riqueerculano/ecommerce-syntaxwear
+[Ver repositório](https://github.com/riqueerculano/ecommerce-syntaxwear)
+
+`HTML5` `CSS3` `Responsive Design`
 
 **PokeDevs**
 
-Projeto de desenvolvimento web utilizando estrutura HTML, CSS e JavaScript.
+Projeto prático de desenvolvimento web e estruturação de interfaces.
 
-Repositório: https://github.com/riqueerculano/projeto-pokedevs
+[Ver repositório](https://github.com/riqueerculano/projeto-pokedevs)
 
-**Calculadora de Partidas Rankeadas**
+`HTML` `CSS` `JavaScript`
 
-Projeto prático de lógica de programação com JavaScript.
+### 📚 TECHNICAL DOCUMENTATION
 
-Repositório: https://github.com/riqueerculano/calculadora-partidas-rankeadas
+**Lacrei Saúde — Technical Writer Challenge**
 
-### 📚 Documentação Técnica
+Projeto de documentação técnica com abordagem de arquitetura de sistemas, APIs e comunicação entre aplicações.
 
-**Desafio Technical Writer — Lacrei Saúde**
+[Ver repositório](https://github.com/riqueerculano/desafio-technical-writer-lacrei-saude)
 
-Projeto de documentação técnica envolvendo arquitetura de sistemas, APIs e comunicação entre aplicações.
+## `04` — GITHUB ANALYTICS
 
-Repositório: https://github.com/riqueerculano/desafio-technical-writer-lacrei-saude
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=riqueerculano&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
-## Formação e desenvolvimento profissional
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riqueerculano&layout=compact&theme=tokyonight&hide_border=true" />
 
-- Análise e Desenvolvimento de Sistemas — Senac.
-- Formação Desenvolvimento Full Stack — DevQuest.
-- Certificação Google de Suporte Técnico — em andamento.
-- Python Fundamentals — DIO PRO.
-- Estudos em Inteligência Artificial, automação e desenvolvimento de aplicações.
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=riqueerculano&theme=tokyonight&hide_border=true" />
 
-## Objetivos profissionais
+</div>
 
-Busco oportunidades nas áreas de:
+## `05` — EDUCATION & DEVELOPMENT
 
-- AI Builder.
-- Desenvolvedor Front-End Júnior.
-- Desenvolvimento de aplicações com Inteligência Artificial.
-- Automação de processos e agentes inteligentes.
+🎓 **Análise e Desenvolvimento de Sistemas** — Senac
 
-Acredito na tecnologia como ferramenta para transformar problemas em soluções simples, eficientes e acessíveis.
+💻 **Formação Full Stack** — DevQuest
 
----
+🛠️ **Google IT Support Certificate** — Em andamento
 
-## Vamos nos conectar?
+🐍 **Python Fundamentals** — DIO PRO
 
-- 💼 LinkedIn: https://linkedin.com/in/henrique-erculano
-- 🐙 GitHub: https://github.com/riqueerculano
-- 📧 E-mail: henriqueerculano@gmail.com
+🚀 Aprendizado contínuo em Inteligência Artificial e desenvolvimento de software.
+
+## `06` — MY MISSION
+
+> Não quero apenas utilizar tecnologia. Quero construir soluções que façam a diferença.
+>
+> Meu foco é conectar desenvolvimento de software, inteligência artificial e necessidades reais de negócios.
 
 ---
 
-*Construindo soluções, aprendendo continuamente e transformando ideias em projetos reais.* 🚀
+<div align="center">
+
+### LET'S BUILD SOMETHING GREAT! 🚀
+
+**Learn continuously. Think creatively. Build intelligently.**
+
+<a href="https://linkedin.com/in/henrique-erculano">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/riqueerculano">
+  <img src="https://img.shields.io/badge/Explore_my_projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
