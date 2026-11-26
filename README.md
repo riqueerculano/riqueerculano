@@ -1,203 +1,201 @@
-<div align="center">👨‍💻 Henrique Erculano
+<div align="center">
 
-BUILDING IDEAS INTO DIGITAL SOLUTIONS.
+# 👨‍💻 Henrique Erculano
 
-🤖 Front-End Developer | 💻 AI Builder
+## BUILDING IDEAS INTO DIGITAL SOLUTIONS.
 
-Transformando ideias em soluções digitais inteligentes.
+### 🤖 AI Builder | 💻 Front-End Developer
+
+*Transformando problemas reais em experiências digitais inteligentes.*
 
 <a href="https://linkedin.com/in/henrique-erculano">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/riqueerculano">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a></div>---
+</a>
 
-"01" — ABOUT ME
+</div>
 
+---
+
+## `01` — WHO AM I?
+
+```javascript
 const henrique = {
-  roles: ["Front-end Developer", "AI Builder"],
+  role: ["AI Builder", "Front-End Developer"],
   location: "São Paulo, Brazil",
+  education: "Análise e Desenvolvimento de Sistemas",
   experience: "6+ years in IT",
-  education: [
-    "Systems Analysis and Development — Senac",
-    "Full Stack Development — DevQuest"
-  ],
-  interests: [
-    "Web Development",
+  focus: [
     "Artificial Intelligence",
+    "Web Development",
     "Intelligent Agents",
     "Process Automation"
   ],
   mindset: "Learn. Build. Test. Improve."
 };
+```
 
-Sou profissional de Tecnologia da Informação com mais de 6 anos de experiência em suporte técnico, manutenção, diagnóstico de problemas e atendimento ao usuário.
+Sou profissional de Tecnologia da Informação com mais de 6 anos de experiência em suporte técnico, manutenção, infraestrutura e atendimento ao cliente.
 
-Atualmente, estou direcionando minha carreira para o Desenvolvimento Front-End e AI Builder, unindo experiência prática em TI, desenvolvimento web e construção de soluções inteligentes.
+Atualmente, estou direcionando minha carreira para duas áreas que se complementam: **Inteligência Artificial e Desenvolvimento Front-End**.
 
-Meu objetivo é desenvolver tecnologia útil, acessível e capaz de resolver problemas reais, conectando inovação às necessidades de pessoas e empresas.
+Meu objetivo é construir aplicações, agentes inteligentes e automações que resolvam problemas reais e gerem valor para pessoas e empresas.
 
 ---
 
-"02" — TECH STACK
+## `02` — TECH STACK
 
-💻 Front-End Development
+### 💻 Front-End Development
 
-Tecnologias e ferramentas em meus estudos e projetos:
+**Tecnologias e ferramentas que utilizo nos estudos e projetos:**
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" alt="HTML, CSS, JavaScript, Git, GitHub, VS Code e Figma"/>
-</p>Em aprendizado:
+</p>
+
+**Em aprendizado:**
 
 <p>
   <img src="https://skillicons.dev/icons?i=react" alt="React"/>
-</p>🤖 AI Builder & Automation
+</p>
 
-Ferramentas e tecnologias:
+### 🤖 AI Builder & Automation
 
-"Python" "Lovable" "n8n" "Supabase" "APIs REST" "JSON"
+**Ferramentas e tecnologias em desenvolvimento:**
 
-Inteligência Artificial:
+`Python` `Lovable` `Supabase` `n8n` `APIs REST` `JSON`
 
-"Prompt Engineering" "AI Agents" "Process Automation"
+**IA e Engenharia de Prompts:**
 
-🧠 AI TOOLS
+`Prompt Engineering` `ChatGPT` `Gemini` `Claude`
 
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-</p>📚 CURRENTLY LEARNING
+### 🧠 CURRENTLY LEARNING
 
-- HTML5, CSS3 e JavaScript.
-- React e desenvolvimento de interfaces.
-- Python Fundamentals.
-- Engenharia de Prompts.
-- Construção de agentes inteligentes.
-- Integração de APIs e automações.
-- Supabase e n8n.
+- Python Fundamentals
+- React e desenvolvimento de interfaces
+- Engenharia de Prompts
+- Construção de agentes inteligentes
+- Integração de APIs e automações
+- Git e GitHub — fluxo de trabalho colaborativo
 
 ---
 
-"03" — FEATURED PROJECTS
+## `03` — FEATURED PROJECTS
 
-<div align="center">🚀 FROM IDEAS TO REAL PROJECTS
+<div align="center">
 
-Explorando o desenvolvimento web e a criação de soluções inteligentes.
+### 🚀 FROM IDEAS TO REAL PROJECTS
 
-</div>🤖 AI BUILDER
+</div>
 
-Sabor Brasileiro — Intelligent Delivery Platform
+### 🤖 AI BUILDER
 
-Conceito de plataforma inteligente para delivery de comida brasileira, explorando a integração entre atendimento digital, Inteligência Artificial e automação de pedidos.
+**Sabor Brasileiro — AI Delivery Agent**
 
-Objetivos do projeto:
+Projeto de agente inteligente para atendimento de restaurantes, com foco na experiência do cliente, informações do cardápio e organização de pedidos.
 
-- Apresentar cardápio digital e informações dos produtos.
-- Organizar pedidos e solicitações.
+**Objetivos do projeto:**
 - Automatizar dúvidas frequentes.
-- Integrar atendimento via WhatsApp e plataforma web.
+- Apresentar informações do cardápio.
+- Organizar solicitações e pedidos.
 - Permitir encaminhamento para atendimento humano.
 
-"AI Agents" "Lovable" "Supabase" "n8n" "APIs REST"
+`AI Agents` `Lovable` `Supabase` `n8n` `APIs`
 
-Status: Em desenvolvimento.
-
----
-
-💻 FRONT-END DEVELOPMENT
-
-Help Desk Pro — Technical Support Management
-
-Sistema de gerenciamento de chamados técnicos, inspirado na experiência profissional em suporte de TI.
-
-Objetivos do projeto:
-
-- Organizar solicitações de suporte.
-- Registrar e acompanhar chamados.
-- Gerenciar atendimentos técnicos.
-- Controlar status das solicitações.
-- Melhorar a organização dos processos de suporte.
-
-"Lovable" "Front-End" "JavaScript" "UI/UX"
-
-Status: Protótipo em desenvolvimento.
-
-Sakura Sushi — Restaurant Website
-
-Projeto de interface web para restaurante, com foco em identidade visual, apresentação de produtos e experiência do usuário.
-
-Objetivos do projeto:
-
-- Desenvolver uma interface moderna.
-- Apresentar produtos e cardápio.
-- Melhorar a navegação.
-- Explorar conceitos de responsividade e experiência do usuário.
-
-"HTML5" "CSS3" "JavaScript" "Responsive Design"
-
-Status: Em desenvolvimento.
-
-Fronteira Zero — Futuristic E-commerce
-
-Projeto de comércio eletrônico com identidade visual futurista, inspirado na estética cyberpunk e na cultura geek.
-
-Objetivos do projeto:
-
-- Criar uma identidade visual própria.
-- Desenvolver uma experiência de compra moderna.
-- Explorar interfaces e componentes de e-commerce.
-- Trabalhar conceitos de design e conversão.
-
-"E-commerce" "UI/UX" "Front-End" "Cyberpunk Design"
-
-Status: Em desenvolvimento.
+*Status: Em desenvolvimento.*
 
 ---
 
-"04" — GITHUB ANALYTICS
+### 💻 FRONT-END DEVELOPMENT
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=riqueerculano&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riqueerculano&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/></div>---
+**Help Desk Pro**
 
-"05" — EDUCATION & DEVELOPMENT
+Sistema de gerenciamento de chamados técnicos, projetado para organizar solicitações, usuários e acompanhamento dos atendimentos.
 
-🎓 Análise e Desenvolvimento de Sistemas — Senac (em andamento)
+**Funcionalidades previstas:**
+- Registro de chamados.
+- Gerenciamento de usuários.
+- Acompanhamento de solicitações.
+- Controle de status dos atendimentos.
 
-💻 Formação Full Stack — DevQuest (em andamento)
+`HTML` `CSS` `JavaScript` `React` `Supabase`
 
-🛠️ Google IT Support Certificate (em andamento)
+*Status: Em desenvolvimento.*
 
-🐍 Python Fundamentals — DIO PRO (em andamento)
+**SyntaxWear — E-commerce**
 
-🚀 Aprendizado contínuo em Inteligência Artificial, desenvolvimento web e construção de soluções digitais.
+Interface de comércio eletrônico de sneakers, com identidade visual própria e foco na experiência de navegação.
+
+`HTML5` `CSS3` `Responsive Design`
+
+🔗 [Ver repositório](https://github.com/riqueerculano/ecommerce-syntaxwear)
+
+**PokeDevs**
+
+Projeto prático de desenvolvimento web, com foco na estruturação de interfaces e interatividade.
+
+`HTML` `CSS` `JavaScript`
+
+🔗 [Ver repositório](https://github.com/riqueerculano/projeto-pokedevs)
+
+### 📚 TECHNICAL DOCUMENTATION
+
+**Lacrei Saúde — Technical Writer Challenge**
+
+Projeto desenvolvido como desafio de documentação técnica, com foco na organização e clareza das informações.
+
+🔗 [Ver repositório](https://github.com/riqueerculano/desafio-technical-writer-lacrei-saude)
 
 ---
 
-"06" — PROFESSIONAL GOAL
+## `04` — GITHUB ANALYTICS
 
-Evoluir como Desenvolvedor Front-End e AI Builder, criando aplicações web, agentes inteligentes e automações que conectem tecnologia às necessidades reais de pessoas e empresas.
+<div align="center">
 
-Quero transformar conhecimento técnico em soluções práticas, acessíveis e capazes de gerar resultados.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=riqueerculano&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riqueerculano&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
+
+</div>
 
 ---
 
-"07" — CONTACT
+## `05` — EDUCATION & DEVELOPMENT
 
-<div align="center">📍 São Paulo — Brasil
+🎓 **Análise e Desenvolvimento de Sistemas** — Senac *(em andamento)*
+
+💻 **Formação Full Stack** — DevQuest *(em andamento)*
+
+🛠️ **Google IT Support Certificate** *(em andamento)*
+
+🐍 **Python Fundamentals** — DIO PRO *(em andamento)*
+
+🚀 Aprendizado contínuo em Inteligência Artificial e desenvolvimento de software.
+
+---
+
+## `06` — MY MISSION
+
+> Não quero apenas utilizar tecnologia. Quero construir soluções que façam a diferença.
+>
+> Meu foco é conectar desenvolvimento de software, Inteligência Artificial e necessidades reais de negócios.
+
+---
+
+<div align="center">
+
+### LET'S BUILD SOMETHING GREAT! 🚀
+
+**Learn continuously. Think creatively. Build intelligently.**
 
 <a href="https://linkedin.com/in/henrique-erculano">
-  <img src="https://img.shields.io/badge/LinkedIn-Henrique_Erculano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a><a href="https://github.com/riqueerculano">
-  <img src="https://img.shields.io/badge/GitHub-riqueerculano-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a><a href="mailto:henriqueerculano@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a></div>---
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn"/>
+</a>
 
-<div align="center">LET'S BUILD SOMETHING GREAT! 🚀
-
-LEARN. BUILD. TEST. IMPROVE.
-
-Transforming ideas into intelligent digital solutions.
+<a href="https://github.com/riqueerculano">
+  <img src="https://img.shields.io/badge/Explore_my_projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar projetos no GitHub"/>
+</a>
 
 </div>
