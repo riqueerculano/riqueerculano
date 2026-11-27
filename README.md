@@ -19,7 +19,7 @@
 
 ---
 
-## `01` — WHO AM I?
+## `01` — ABOUT ME
 
 ```javascript
 const henrique = {
@@ -71,6 +71,14 @@ Meu objetivo é construir aplicações, agentes inteligentes e automações que 
 
 `Prompt Engineering` `ChatGPT` `Gemini` `Claude`
 
+### 🧠 AI TOOLS
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+</p>
+
 ### 🧠 CURRENTLY LEARNING
 
 - Python Fundamentals
@@ -110,7 +118,7 @@ Projeto de agente inteligente para atendimento de restaurantes, com foco na expe
 
 ### 💻 FRONT-END DEVELOPMENT
 
-**Help Desk Pro**
+**Help Desk Pro — Technical Support Management**
 
 Sistema de gerenciamento de chamados técnicos, projetado para organizar solicitações, usuários e acompanhamento dos atendimentos.
 
@@ -124,29 +132,33 @@ Sistema de gerenciamento de chamados técnicos, projetado para organizar solicit
 
 *Status: Em desenvolvimento.*
 
-**SyntaxWear — E-commerce**
+**Sakura Sushi — Landing Page**
 
-Interface de comércio eletrônico de sneakers, com identidade visual própria e foco na experiência de navegação.
+Projeto de uma landing page para restaurante, com foco em identidade visual, apresentação de produtos e experiência do usuário.
 
-`HTML5` `CSS3` `Responsive Design`
+**Objetivos do projeto:**
+- Desenvolver uma interface moderna.
+- Apresentar produtos e cardápio.
+- Melhorar a navegação.
+- Explorar conceitos de responsividade e experiência do usuário.
 
-🔗 [Ver repositório](https://github.com/riqueerculano/ecommerce-syntaxwear)
+`HTML5` `CSS3` `JavaScript` `Responsive Design`
 
-**PokeDevs**
+*Status: Em desenvolvimento.*
 
-Projeto prático de desenvolvimento web, com foco na estruturação de interfaces e interatividade.
+**Fronteira Zero — E-commerce**
 
-`HTML` `CSS` `JavaScript`
+Projeto de comércio eletrônico com identidade visual futurista, inspirado na estética cyberpunk e na cultura geek.
 
-🔗 [Ver repositório](https://github.com/riqueerculano/projeto-pokedevs)
+**Objetivos do projeto:**
+- Criar uma identidade visual própria.
+- Desenvolver uma experiência de compra moderna.
+- Explorar interfaces e componentes de e-commerce.
+- Trabalhar conceitos de design e conversão.
 
-### 📚 TECHNICAL DOCUMENTATION
+`E-commerce` `UI/UX` `Front-End` `Cyberpunk Design`
 
-**Lacrei Saúde — Technical Writer Challenge**
-
-Projeto desenvolvido como desafio de documentação técnica, com foco na organização e clareza das informações.
-
-🔗 [Ver repositório](https://github.com/riqueerculano/desafio-technical-writer-lacrei-saude)
+*Status: Em desenvolvimento.*
 
 ---
 
@@ -180,7 +192,7 @@ Projeto desenvolvido como desafio de documentação técnica, com foco na organi
 
 > Não quero apenas utilizar tecnologia. Quero construir soluções que façam a diferença.
 >
-> Meu foco é conectar desenvolvimento de software, Inteligência Artificial e necessidades reais de negócios.
+> Meu foco é conectar desenvolvimento de software, Inteligência Artificial a necessidades reais de negócios.
 
 ---
 
